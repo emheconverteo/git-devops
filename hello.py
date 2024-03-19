@@ -1,4 +1,9 @@
-# hello.py
 def greet(name):
     print("Hello, " + name + "!")
-greet("Alice")
+
+greet("Bob")
+
+def farewell(name):
+    print("Goodbye, " + name + "!")
+
+farewell("Alice")
